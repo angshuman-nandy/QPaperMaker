@@ -1,3 +1,6 @@
+# MIT License
+# Copyright (c) 2026 Angshuman Nandy
+
 import re
 import numpy as np
 from fastapi import APIRouter, HTTPException

@@ -1,3 +1,6 @@
+# MIT License
+# Copyright (c) 2026 Angshuman Nandy
+
 import asyncio
 from fastapi import APIRouter, HTTPException
 from models.schemas import OCRRequest, OCRResponse, PageText

@@ -1,3 +1,6 @@
+// MIT License
+// Copyright (c) 2026 Angshuman Nandy
+
 const express = require('express')
 const path = require('path')
 const fs = require('fs')

@@ -1,3 +1,6 @@
+# MIT License
+# Copyright (c) 2026 Angshuman Nandy
+
 from fastapi import APIRouter, HTTPException
 from models.schemas import GenerateRequest, GenerateResponse
 from services.vector_store import search_chunks

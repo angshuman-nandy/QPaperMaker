@@ -1,3 +1,6 @@
+// MIT License
+// Copyright (c) 2026 Angshuman Nandy
+
 const jwt = require('jsonwebtoken')
 
 function verifyJWT(req, res, next) {

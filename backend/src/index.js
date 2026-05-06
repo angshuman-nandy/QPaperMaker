@@ -1,3 +1,6 @@
+// MIT License
+// Copyright (c) 2026 Angshuman Nandy
+
 require('dotenv').config()
 const express = require('express')
 const cors = require('cors')

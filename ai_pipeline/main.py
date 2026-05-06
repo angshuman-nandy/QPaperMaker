@@ -1,3 +1,6 @@
+# MIT License
+# Copyright (c) 2026 Angshuman Nandy
+
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 

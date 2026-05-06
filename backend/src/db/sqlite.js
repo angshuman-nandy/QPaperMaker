@@ -1,3 +1,6 @@
+// MIT License
+// Copyright (c) 2026 Angshuman Nandy
+
 const Database = require('better-sqlite3')
 const path = require('path')
 const fs = require('fs')

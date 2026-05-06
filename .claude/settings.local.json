@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm init *)",
+      "Bash(npm install *)",
+      "Bash(DATA_DIR=/Users/angshumannandy/projects-claude/QPaperMaker/local_data JWT_SECRET=plmkoijnbhuygvcftrdxzsewaq AI_PIPELINE_URL=http://localhost:8000 PORT=3000 node /Users/angshumannandy/projects-claude/QPaperMaker/backend/src/index.js)"
+    ]
+  }
+}
