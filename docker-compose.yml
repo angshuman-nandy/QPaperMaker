@@ -1,0 +1,9 @@
+services:
+  app:
+    build: .
+    ports:
+      - "7860:7860"
+    volumes:
+      - ./local_data:/data
+    env_file:
+      - .env

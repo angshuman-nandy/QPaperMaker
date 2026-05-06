@@ -1,0 +1,11 @@
+node_modules/
+dist/
+local_data/
+__pycache__/
+*.pyc
+.env
+!.env.example
+*.sqlite
+chromadb/
+.DS_Store
+CLAUDE.md
